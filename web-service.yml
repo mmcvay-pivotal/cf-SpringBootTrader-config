@@ -10,5 +10,5 @@ pivotal:
     quotes: 3
     symbols:
       #it: EMC,ORCL,IBM,INTC,AMD,HPQ,CSCO,AAPL
-      it: EMC,ORCL,IBM
+      it: EMC,ORCL,IBM,INTC
       fs: JPM,MS,BAC,GS,WFC,BK
