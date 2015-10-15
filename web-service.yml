@@ -11,4 +11,4 @@ pivotal:
     symbols:
       #it: EMC,ORCL,IBM,INTC,AMD,HPQ,CSCO,AAPL
       it: EMC,ORCL,IBM
-      fs: JPM
+      fs: JPM,MS,BAC,GS,WFC,BK
